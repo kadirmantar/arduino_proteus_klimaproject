@@ -1,0 +1,20 @@
+Klima kumandası olarak keypad ve kumanda ekranı olarak LCD kullandım.
+Klima kumandası ile ilgili bir kütüphane bulamadığım için kepad kullanmak zorunda
+kaldım.Çalıştırırken kumandanın kısa süreli bir işaret sesi çıkarması için buzzer
+kullandım.C tuşuna bastığınız zaman klima kapağı açılıyor ve yön motorları olan servo
+motorlar çalımaya başlıyor.Dc motorları soğutma için kullandım.Ve test etmek için
+voltmetreler kullandım.Odanın sıcaklığını ölçüp anlık olarak öğrenebilmemiz için
+LM35 termometre kullandım.Klimalarda dereceyi ne kadar düşürürsek o kadar çok soğutacağı bilgisini 
+öğrendim ve ona göre yaptım ve dereceleri 18C ve 24C arasında olduğunu öğrendim.Algoritma ve algoritma 
+mantığı tamamen bana aittir.
+
+Çalıştırmaya başlarken keypad tuşlarının kullanımı;
+'c' tuşu = Başlatma tuşu
+'0' tuşu = Kapatma tuşu
+'8' tuşu = Klima derecesini düşürerek daha soğuk olmasını sağlar
+'2' tuşu = Klima derecesini yükselterek daha sıcak olmasını sağlar
+
+NOT:Hocam vize notum biraz düşük.Gerçek klimaya benzetmek için elimden geleni yaptım inşallah beğenirsiniz :)
+
+
+
